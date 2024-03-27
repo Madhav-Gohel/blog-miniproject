@@ -80,7 +80,7 @@ const Login = ({ isUserAuthenticated }) => {
     const navigate = useNavigate();
     const { setAccount } = useContext(DataContext);
 
-    const imageURL = 'https://www.sesta.it/wp-content/uploads/2021/03/logo-blog-sesta-trasparente.png';
+    const imageURL = 'https://cdn.logojoy.com/wp-content/uploads/2018/05/30164225/572.png';
 
     useEffect(() => {
         showError(false);
