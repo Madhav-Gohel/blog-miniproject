@@ -30,11 +30,11 @@ const Contact = () => {
                 <Typography variant="h3">Getting in touch is easy!</Typography>    
                 <Text variant="h5">
                     Reach out to me on
-                    <Link href="https://www.instagram.com/codeforinterview/" color="inherit" target="_blank">
+                    <Link href="https://www.instagram.com/madhavgohel07/" color="inherit" target="_blank">
                         <Instagram/>
                     </Link>
                     or send me an Email 
-                    <Link href="mailto:codeforinterview@gmail.com?Subject=This is a subject" target="_blank" color="inherit">
+                    <Link href="mailto:madhavgohel2@gmail.com?Subject=This is a subject" target="_blank" color="inherit">
                         <Email />
                     </Link>.
                 </Text>
